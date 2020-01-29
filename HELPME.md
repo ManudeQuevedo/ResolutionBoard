@@ -4,9 +4,9 @@ First and foremost, this list is to motivate you. If you fail to achieve your ta
 
 > "Love the Process" - Gary Vaynerchuk
 
-## Resolution title 
+## Resolution title
 
-- Should not be long 
+- Should not be long
 - Use Emojis 😃💪🏼🥴
 - Always use a progress badge
 
@@ -15,7 +15,7 @@ First and foremost, this list is to motivate you. If you fail to achieve your ta
 I have used [shields.io](https://shields.io/) for creating the badge. It's very simple to create one.
 
 **Example:**
-Let's say, we want to create a badge of 30% completed Resolutions 
+Let's say, we want to create a badge of 30% completed Resolutions
 
 `https://img.shields.io/badge/<progress/completed>-<% of completion>25-<color>.svg`
 
