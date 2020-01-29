@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://postimg.cc/Mfp8zh5N">
-</div>
+[![2020-Resolution-Board.png](https://i.postimg.cc/d38QjFys/2020-Resolution-Board.png)](https://postimg.cc/Mfp8zh5N)
 
 This is The Resolution Board, a template created to help you achieve your New Year Resolutions and these are my new year resolutions.
 
